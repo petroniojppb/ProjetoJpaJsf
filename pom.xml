@@ -6,6 +6,12 @@
 	<artifactId>ProjectFuncionarioCarteira</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
+	<properties>
+  <sonar.projectKey>ProjetoFujioka</sonar.projectKey>
+  <sonar.organization>petroniojppb</sonar.organization>
+  <sonar.host.url>https://sonarcloud.io</sonar.host.url>
+  <sonar.login>5999bf31dabf7f580db5235f3e8f1b7b6932ec09</sonar.login>
+</properties>
 	<dependencies>
 
 		<!--JSF -->
